@@ -1,4 +1,4 @@
-# AzureRACIToolkit
+# Azure RACI Toolkit
 
 ## What is a RACI?
 Establishing a good foundation of governance is critical to effectively consuming cloud services. A core component of that governance involves the creation of a Roles Assignment Matrix (RACI). RACI stands for **responsible, accountable, consulted,** and **informed**. The matrix contains a listing of tasks which are assigned to functional roles. For each task there is always one accountable party, one or more responsible parties, and optionally consulted or informed parties. Accountable parties are the decision makers and are accountable for the success or failure of the task. Responsible parties have a responsibility in completing the task but are not accountable for the success or failure of the task. Consulted parties may be consulted during a task for best practices or advice but are not responsible or accountable for the success or failure of the task. Informed parties have an interest in whether or not the task is successful but are not directly involved in completion of the task.
