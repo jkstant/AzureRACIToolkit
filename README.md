@@ -24,8 +24,7 @@ For each task listed in the RACI Matrix, identify which role(s) above will have 
 ## What else is in this toolkit?
 This toolkit also includes a set of reference worksheets and scripts to assist in the definition and creation of your own custom RBAC role(s).
 
-Built-in RBAC Roles - complete list of RBAC roles built-in to Azure
-Powershell - scripts for updating toolkit content(below), creating/managing custom roles, etc.
-Azure Service Namespaces - complete list of Azure Services and their security namespaces 
-Service Actions - all available RBAC actions(non-data) on Azure resources e.g. create virtual machine, read logs, etc.
-Data Actions - all available actions on data e.g. read storage blob
+**Built-in RBAC Roles** - complete list of RBAC roles built-in to Azure
+**Azure Service Namespaces** - complete list of Azure Services and their security namespaces 
+**Service Actions** - all available RBAC actions(non-data) on Azure resources e.g. create virtual machine, read logs
+**Data Actions** - all available actions on data e.g. read storage blob
