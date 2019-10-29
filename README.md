@@ -20,7 +20,7 @@ We start out with seven common functional roles which have broad applicability a
 | **Security Admins**    | Tier 3 team responsible for setting security policy and configuration of security solutions | 
 
 
-For each task listed in the RACI Matrix, identify which role(s) above will have ownership either as responsible parties, an accountable party, a consulted party, or  informed party. If you need to modify or add an additional role or task, simply add it to the matrix and populate accordingly. The matrix provided is not an exhaustive list of tasks but rather a subset of actions required to establish a minimum viable cloud. This baseline set of actions should provide a good starting point from which you can compose your own cloud operating model roles and responsibilities.
+For each task listed in the RACI Matrix, identify which role(s) above will have ownership either as responsible parties, an accountable party, a consulted party, or  informed party. If you need to modify or add an additional role or task, simply add it to the matrix and populate accordingly. The matrix provided is not an exhaustive list of tasks but rather a subset of actions required to establish a minimum viable cloud. This baseline set of actions should provide a good starting point from which you can compose your own cloud operating model, roles and responsibilities.
 
 ## What else is in this toolkit?
 This toolkit also includes a set of reference worksheets and scripts to assist in the definition and creation of your own custom RBAC role(s).
