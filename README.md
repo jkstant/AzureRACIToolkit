@@ -11,12 +11,12 @@ We start out with seven common functional roles which have broad applicability a
 
 | Role          | Description   | 
 | ------------- |:-------------|
-| **Cloud Service Owner**    | Individual who is accountable for service management for cloud services; architect | 
+| **Cloud Service Owner**    | Individual who is accountable for service management for cloud services; cloud architect | 
 | **Workload Owner**    | Development team or primary support personnel for workload | 
 | **Operations**    | Tier 2 day to day operation of the environment such as troubleshooting and incident management | 
+| **Security Auditors**    | Tier 2 team responsible for validating security configuration for compliance | 
 | **Systems Operators**     | Tier 3 team responsible for design, implementation, and configuration of compute resources (VMs, SQL, etc)     |   
 | **Network Operators** | Tier 3 team responsible for design, implementation, and configuration of network resources (Vnet, routing tables, etc)   |   
-| **Security Auditors**    | Tier 2 team responsible for validating security configuration for compliance | 
 | **Security Admins**    | Tier 3 team responsible for setting security policy and configuration of security solutions | 
 
 
