@@ -11,7 +11,7 @@ We start out with seven common functional roles which have broad applicability a
 
 | Role          | Description   | 
 | ------------- |:-------------|
-| **Operations**    | Tier 2 Day to day operation of the environment such as troubleshooting and incident management | 
+| **Operations**    | Tier 2 day to day operation of the environment such as troubleshooting and incident management | 
 | **Systems Operators**     | Tier 3 team responsible for design, implementation, and configuration of compute resources (VMs, SQL, etc)     |   
 | **Network Operators** | Tier 3 team responsible for design, implementation, and configuration of network resources (Vnet, routing tables, etc)   |   
 | **Security Auditors**    | Tier 2 team responsible for validating security configuration for compliance | 
