@@ -11,13 +11,14 @@ We start out with seven common functional roles which have broad applicability a
 
 | Role          | Description   | 
 | ------------- |:-------------|
+| **Cloud Service Owner**    | Individual who is accountable for service management for cloud services; architect | 
+| **Workload Owner**    | Development team or primary support personnel for workload | 
 | **Operations**    | Tier 2 day to day operation of the environment such as troubleshooting and incident management | 
 | **Systems Operators**     | Tier 3 team responsible for design, implementation, and configuration of compute resources (VMs, SQL, etc)     |   
 | **Network Operators** | Tier 3 team responsible for design, implementation, and configuration of network resources (Vnet, routing tables, etc)   |   
 | **Security Auditors**    | Tier 2 team responsible for validating security configuration for compliance | 
 | **Security Admins**    | Tier 3 team responsible for setting security policy and configuration of security solutions | 
-| **Workload Owner**    | Development team or primary support personnel for workload | 
-| **Cloud Service Owner**    | Individual who is accountable for service management for cloud services; architect | 
+
 
 For each task listed in the RACI Matrix, identify which role(s) above will have ownership either as responsible parties, an accountable party, a consulted party, or  informed party. If you need to modify or add an additional role or task, simply add it to the matrix and populate accordingly. The matrix provided is not an exhaustive list of tasks but rather a subset of actions required to establish a minimum viable cloud. This baseline set of actions should provide a good starting point from which you can compose your own cloud operating model roles and responsibilities.
 
