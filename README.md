@@ -30,3 +30,4 @@ This toolkit also includes a set of reference worksheets and scripts to assist i
 | **Azure Service Namespaces** | Complete list of Azure Services and their security namespaces| 
 | **Service Actions** | All available RBAC actions(non-data) on Azure resources e.g. create virtual machine, read logs|
 | **Data Actions** | All available actions on data e.g. read storage blob|
+| **Powershell** | Source scripts to refresh data and create/manage custom RBAC roles |
